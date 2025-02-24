@@ -14,6 +14,9 @@ Configuration d'une base de données postgres
 
 Creation finalement du module web
 
+![a05](https://github.com/user-attachments/assets/514a8227-b43e-405e-a884-8cad492e92c2)
+
+
 ![a04](https://github.com/user-attachments/assets/6002ee9f-8ba0-4d9b-bad3-edbdaafd304e)
 
 
